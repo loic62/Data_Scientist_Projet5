@@ -1,0 +1,31 @@
+Bonjour,
+
+ A. Le 1er fichier à exécuter est 'Projet6.ipynb'
+
+    Ce projet :
+    - classifie les produits via leurs descriptions avec les méthodes Bag Of Words, TF-IDF et LDA.
+    - classifie les produits via leurs images avec la méthode SIFT.
+      Les images sont dans le répertoire "./images/".
+
+
+ B. Le 2eme fichier à exécuter est 'Projet6_CNN.ipynb'
+
+    Ce projet, à executer sous Google Colab :
+    - classifie les produits via leurs images avec la méthode CNN.
+      Les images sont dans le répertoire "./images/".
+
+
+  Option 1:   Installer le notebook sur votre compte personnel Google Colab
+
+      Pensez alors à :
+        - assigner le bon PATH à la variable 'path_img' dans la 4ème cellule du notebook.
+        - installer 'flipkart_com-ecommerce_sample_1050.csv' dans votre Google Drive
+        - installer le répertoire des images dans votre Google Drive
+
+  Option 2:   Accéder à mon notebook via le lien partagé suivant :
+
+      https://colab.research.google.com/drive/17Hzhadiyj9PGAam4zqQTNUmj8wsxnnBM?usp=sharing
+
+
+
+Merci
